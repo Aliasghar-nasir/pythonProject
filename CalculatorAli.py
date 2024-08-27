@@ -13,6 +13,7 @@ def main():
 
     CaclUi.CaclUi(operation,num1,num2)
 
+    print("Thank you for using my calculator")
 
 
 
