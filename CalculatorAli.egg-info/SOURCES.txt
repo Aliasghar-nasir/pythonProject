@@ -1,0 +1,7 @@
+CalculatorAli.py
+README.md
+setup.py
+CalculatorAli.egg-info/PKG-INFO
+CalculatorAli.egg-info/SOURCES.txt
+CalculatorAli.egg-info/dependency_links.txt
+CalculatorAli.egg-info/top_level.txt
