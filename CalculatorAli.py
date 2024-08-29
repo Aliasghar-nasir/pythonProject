@@ -13,7 +13,7 @@ def main():
 
     CaclUi.CaclUi(operation,num1,num2)
 
-    print("Thank you Ali ")
+    print("Thank you Ali asghar ")
 
 
 
