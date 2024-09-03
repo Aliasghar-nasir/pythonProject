@@ -19,7 +19,7 @@ def main():
 
     CaclUi.CaclUi(operation, num1, num2)
 
-    print("Thank you Ali Asghar")
+    print("Thank you Ali Asghar Bin")
 
 if __name__ == "__main__":
     main()
